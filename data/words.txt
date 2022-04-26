@@ -1,0 +1,6 @@
+spielen, ich, du, er/sie/es, wir, ihr, sie,
+直接法現在, spiele, spielst, spielt, spielen, spielt, spielen,
+直接法過去, spielte, spieltest, spielte, spielten, spieltet, spielten,
+接続法1, spiele, spielest, spiele, spielen, spielet, spielen,
+接続法2, spielte, spieltest, spielte, spielten, spieltet, spielten,
+命令法, -, spiel/spiele, -, -, spielt, -,

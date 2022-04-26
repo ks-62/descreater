@@ -1,0 +1,748 @@
+{
+    "indefinite_article": {
+        "masculine": {
+            "nominative_1": "ein",
+            "nominative_2": "eines",
+            "nominative_3": "einem",
+            "nominative_4": "einen"
+        },
+        "feminine": {
+            "nominative_1": "eine",
+            "nominative_2": "einer",
+            "nominative_3": "einer",
+            "nominative_4": "eine"
+        },
+        "neuter": {
+            "nominative_1": "ein",
+            "nominative_2": "eines",
+            "nominative_3": "einem",
+            "nominative_4": "ein"
+        }
+    },
+    "definite_article": {
+        "masculine": {
+            "nominative_1": "der",
+            "nominative_2": "des",
+            "nominative_3": "dem",
+            "nominative_4": "den"
+        },
+        "feminine": {
+            "nominative_1": "die",
+            "nominative_2": "der",
+            "nominative_3": "der",
+            "nominative_4": "die"
+        },
+        "neuter": {
+            "nominative_1": "das",
+            "nominative_2": "des",
+            "nominative_3": "dem",
+            "nominative_4": "das"
+        },
+        "plural": {
+            "nominative_1": "die",
+            "nominative_2": "der",
+            "nominative_3": "den",
+            "nominative_4": "die"
+        }
+    },
+    "person": {
+        "ich": "s_1",
+        "du": "s_2",
+        "er": "s_3",
+        "es": "s_3",
+        "wir": "w_1",
+        "ihr": "w_2",
+        "sie": "w_3",
+        "other": "s_3"
+    },
+    "verb": {
+        "original": "",
+        "indicative_cur": {
+            "s_1": "",
+            "s_2": "",
+            "s_3": "",
+            "m_1": "",
+            "m_2": "",
+            "m_3": ""
+        },
+        "indicative_pst": {
+            "s_1": "",
+            "s_2": "",
+            "s_3": "",
+            "m_1": "",
+            "m_2": "",
+            "m_3": ""
+        },
+        "subjunctive_1": {
+            "s_1": "",
+            "s_2": "",
+            "s_3": "",
+            "m_1": "",
+            "m_2": "",
+            "m_3": ""
+        },
+        "subjunctive_2": {
+            "s_1": "",
+            "s_2": "",
+            "s_3": "",
+            "m_1": "",
+            "m_2": "",
+            "m_3": ""
+        },
+        "imperative": {
+            "s_1": "",
+            "s_2": "",
+            "s_3": "",
+            "m_1": "",
+            "m_2": "",
+            "m_3": ""
+        },
+        "present_participle": "",
+        "past_participle": "",
+        "auxiliary_verb": ""
+    },
+    "sein": {
+        "original": "sein",
+        "indicative_cur": {
+            "s_1": "bin",
+            "s_2": "bist",
+            "s_3": "ist",
+            "m_1": "sind",
+            "m_2": "seid",
+            "m_3": "sind"
+        },
+        "indicative_pst": {
+            "s_1": "war",
+            "s_2": "warst",
+            "s_3": "war",
+            "m_1": "waren",
+            "m_2": "wart",
+            "m_3": "waren"
+        },
+        "subjunctive_1": {
+            "s_1": "sei",
+            "s_2": "seiest/seist",
+            "s_3": "sei",
+            "m_1": "seien",
+            "m_2": "seiet",
+            "m_3": "seien"
+        },
+        "subjunctive_2": {
+            "s_1": "wäre",
+            "s_2": "wärest",
+            "s_3": "wäre",
+            "m_1": "wären",
+            "m_2": "wäret",
+            "m_3": "-"
+        },
+        "imperative": {
+            "s_1": "-",
+            "s_2": "sei",
+            "s_3": "-",
+            "m_1": "-",
+            "m_2": "seid",
+            "m_3": "-"
+        },
+        "present_participle": "seiend",
+        "past_participle": "gewesen",
+        "auxiliary_verb": "sein"
+    },
+    "haben": {
+        "original": "haben",
+        "indicative_cur": {
+            "s_1": "habe",
+            "s_2": "hast",
+            "s_3": "hat",
+            "m_1": "haben",
+            "m_2": "habt",
+            "m_3": "haben"
+        },
+        "indicative_pst": {
+            "s_1": "hatte",
+            "s_2": "hattest",
+            "s_3": "hatte",
+            "m_1": "hatten",
+            "m_2": "hattet",
+            "m_3": "hatten"
+        },
+        "subjunctive_1": {
+            "s_1": "habe",
+            "s_2": "habest",
+            "s_3": "habe",
+            "m_1": "haben",
+            "m_2": "habet",
+            "m_3": "haben"
+        },
+        "subjunctive_2": {
+            "s_1": "hätte",
+            "s_2": "hättest",
+            "s_3": "hätte",
+            "m_1": "hätten",
+            "m_2": "hättet",
+            "m_3": "hätten"
+        },
+        "imperative": {
+            "s_1": "-",
+            "s_2": "hab/habe",
+            "s_3": "-",
+            "m_1": "-",
+            "m_2": "habt",
+            "m_3": "-"
+        },
+        "present_participle": "habend",
+        "past_participle": "gehabt",
+        "auxiliary_verb": "haben"
+    },
+    "werden": {
+        "original": "werden",
+        "indicative_cur": {
+            "s_1": "werden",
+            "s_2": "wirst",
+            "s_3": "wird",
+            "m_1": "werden",
+            "m_2": "werdet",
+            "m_3": "werden"
+        },
+        "indicative_pst": {
+            "s_1": "wurde",
+            "s_2": "wurdest",
+            "s_3": "wurde",
+            "m_1": "wurden",
+            "m_2": "wurdet",
+            "m_3": "wurden"
+        },
+        "subjunctive_1": {
+            "s_1": "werde",
+            "s_2": "werdest",
+            "s_3": "werde",
+            "m_1": "werden",
+            "m_2": "werdet",
+            "m_3": "werden"
+        },
+        "subjunctive_2": {
+            "s_1": "würde",
+            "s_2": "würdest",
+            "s_3": "würde",
+            "m_1": "würden",
+            "m_2": "würdet",
+            "m_3": "würden"
+        },
+        "imperative": {
+            "s_1": "-",
+            "s_2": "werde",
+            "s_3": "-",
+            "m_1": "-",
+            "m_2": "werdet",
+            "m_3": "-"
+        },
+        "present_participle": "werdend",
+        "past_participle": "geworden",
+        "auxiliary_verb": "sein"
+    },
+    "spielen": {
+        "original": "spielen",
+        "indicative_cur": {
+            "s_1": "spiele",
+            "s_2": "spielst",
+            "s_3": "spielt",
+            "m_1": "spielen",
+            "m_2": "spielt",
+            "m_3": "spielen"
+        },
+        "indicative_pst": {
+            "s_1": "spielte",
+            "s_2": "spieltest",
+            "s_3": "spielte",
+            "m_1": "spielten",
+            "m_2": "spieltet",
+            "m_3": "spielten"
+        },
+        "subjunctive_1": {
+            "s_1": "spiele",
+            "s_2": "spielest",
+            "s_3": "spiele",
+            "m_1": "spielen",
+            "m_2": "spielet",
+            "m_3": "spielen"
+        },
+        "subjunctive_2": {
+            "s_1": "spielte",
+            "s_2": "spieltest",
+            "s_3": "spielte",
+            "m_1": "spielten",
+            "m_2": "spieltet",
+            "m_3": "spielten"
+        },
+        "imperative": {
+            "s_1": "-",
+            "s_2": "spiel/spiele",
+            "s_3": "-",
+            "m_1": "-",
+            "m_2": "spielt",
+            "m_3": "-"
+        },
+        "present_participle": "spielend",
+        "past_participle": "gespielt",
+        "auxiliary_verb": "haben"
+    },
+    "beginnen": {
+        "original": "beginnen",
+        "indicative_cur": {
+            "s_1": "beginne",
+            "s_2": "beginnst",
+            "s_3": "beginnt",
+            "m_1": "beginnen",
+            "m_2": "beginnt",
+            "m_3": "beginnen"
+        },
+        "indicative_pst": {
+            "s_1": "begann",
+            "s_2": "begannst",
+            "s_3": "begann",
+            "m_1": "begann",
+            "m_2": "begannt",
+            "m_3": "begannen"
+        },
+        "subjunctive_1": {
+            "s_1": "beginne",
+            "s_2": "beginnest",
+            "s_3": "beginne",
+            "m_1": "beginnen",
+            "m_2": "beginnet",
+            "m_3": "beginnen"
+        },
+        "subjunctive_2": {
+            "s_1": "begönne",
+            "s_2": "begönnest",
+            "s_3": "begönne",
+            "m_1": "begönnen",
+            "m_2": "begönnet",
+            "m_3": "begönnen"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "beginn",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "beginnt",
+            "m_3": "—"
+        },
+        "present_participle": "beginnend",
+        "past_participle": "begonnen",
+        "auxiliary_verb": "haben"
+    },
+    "bleiben": {
+        "original": "bleiben",
+        "indicative_cur": {
+            "s_1": "bleibe",
+            "s_2": "bleibst",
+            "s_3": "bleibt",
+            "m_1": "bleiben",
+            "m_2": "bleibt",
+            "m_3": "bleiben"
+        },
+        "indicative_pst": {
+            "s_1": "blieb",
+            "s_2": "bliebst",
+            "s_3": "blieb",
+            "m_1": "blieb",
+            "m_2": "bliebt",
+            "m_3": "blieben"
+        },
+        "subjunctive_1": {
+            "s_1": "bleibe",
+            "s_2": "bleibest",
+            "s_3": "bleibe",
+            "m_1": "bleiben",
+            "m_2": "bleibet",
+            "m_3": "bleiben"
+        },
+        "subjunctive_2": {
+            "s_1": "bliebe",
+            "s_2": "bliebest",
+            "s_3": "bliebe",
+            "m_1": "blieben",
+            "m_2": "bliebet",
+            "m_3": "blieben"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "bleib",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "bleibt",
+            "m_3": "—"
+        },
+        "present_participle": "bleibend",
+        "past_participle": "geblieben",
+        "auxiliary_verb": "sein"
+    },
+    "denken": {
+        "original": "denken",
+        "indicative_cur": {
+            "s_1": "denke",
+            "s_2": "denkst",
+            "s_3": "denkt",
+            "m_1": "denken",
+            "m_2": "denkt",
+            "m_3": "denken"
+        },
+        "indicative_pst": {
+            "s_1": "dachte",
+            "s_2": "dachtest",
+            "s_3": "dachte",
+            "m_1": "dachte",
+            "m_2": "dachtet",
+            "m_3": "dachten"
+        },
+        "subjunctive_1": {
+            "s_1": "denke",
+            "s_2": "denkest",
+            "s_3": "denke",
+            "m_1": "denken",
+            "m_2": "denket",
+            "m_3": "denken"
+        },
+        "subjunctive_2": {
+            "s_1": "dachte",
+            "s_2": "dachtest",
+            "s_3": "dachte",
+            "m_1": "dachten",
+            "m_2": "dachtet",
+            "m_3": "dachten"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "denk/denke",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "denkt",
+            "m_3": "—"
+        },
+        "present_participle": "denkend",
+        "past_participle": "gedacht",
+        "auxiliary_verb": "haben"
+    },
+    "essen": {
+        "original": "essen",
+        "indicative_cur": {
+            "s_1": "esse",
+            "s_2": "isst",
+            "s_3": "isst",
+            "m_1": "essen",
+            "m_2": "esst",
+            "m_3": "essen"
+        },
+        "indicative_pst": {
+            "s_1": "aß",
+            "s_2": "aßest",
+            "s_3": "aß",
+            "m_1": "aß",
+            "m_2": "aßt",
+            "m_3": "aßen"
+        },
+        "subjunctive_1": {
+            "s_1": "esse",
+            "s_2": "essest",
+            "s_3": "esse",
+            "m_1": "essen",
+            "m_2": "esset",
+            "m_3": "essen"
+        },
+        "subjunctive_2": {
+            "s_1": "äße",
+            "s_2": "äßest",
+            "s_3": "äße",
+            "m_1": "äßen",
+            "m_2": "äßet",
+            "m_3": "äßen"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "iss",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "esst",
+            "m_3": "—"
+        },
+        "present_participle": "essend",
+        "past_participle": "gegessen",
+        "auxiliary_verb": "haben"
+    },
+    "fahren": {
+        "original": "fahren",
+        "indicative_cur": {
+            "s_1": "fahre",
+            "s_2": "fährst",
+            "s_3": "fährt",
+            "m_1": "fahren",
+            "m_2": "fahrt",
+            "m_3": "fahren"
+        },
+        "indicative_pst": {
+            "s_1": "fuhr",
+            "s_2": "fuhrst",
+            "s_3": "fuhr",
+            "m_1": "fuhr",
+            "m_2": "fuhrt",
+            "m_3": "fuhren"
+        },
+        "subjunctive_1": {
+            "s_1": "fahre",
+            "s_2": "fahrest",
+            "s_3": "fahre",
+            "m_1": "fahren",
+            "m_2": "fahret",
+            "m_3": "fahren"
+        },
+        "subjunctive_2": {
+            "s_1": "führe",
+            "s_2": "führest",
+            "s_3": "führe",
+            "m_1": "führen",
+            "m_2": "führet",
+            "m_3": "führen"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "fahr",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "fahrt",
+            "m_3": "—"
+        },
+        "present_participle": "fahrend",
+        "past_participle": "gefahren",
+        "auxiliary_verb": "haben"
+    },
+    "finden": {
+        "original": "finden",
+        "indicative_cur": {
+            "s_1": "finde",
+            "s_2": "findest",
+            "s_3": "findet",
+            "m_1": "finden",
+            "m_2": "findet",
+            "m_3": "finden"
+        },
+        "indicative_pst": {
+            "s_1": "fand",
+            "s_2": "fandest",
+            "s_3": "fand",
+            "m_1": "fand",
+            "m_2": "fandet",
+            "m_3": "fanden"
+        },
+        "subjunctive_1": {
+            "s_1": "finde",
+            "s_2": "findest",
+            "s_3": "findet",
+            "m_1": "finden",
+            "m_2": "findet",
+            "m_3": "finden"
+        },
+        "subjunctive_2": {
+            "s_1": "fände",
+            "s_2": "fändest",
+            "s_3": "fände",
+            "m_1": "fänden",
+            "m_2": "fändet",
+            "m_3": "fänden"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "finde",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "findet",
+            "m_3": "—"
+        },
+        "present_participle": "findend",
+        "past_participle": "gefunden",
+        "auxiliary_verb": "haben"
+    },
+    "fliegen": {
+        "original": "fliegen",
+        "indicative_cur": {
+            "s_1": "fliege",
+            "s_2": "fliegst",
+            "s_3": "fliegt",
+            "m_1": "fliegen",
+            "m_2": "fliegt",
+            "m_3": "fliegen"
+        },
+        "indicative_pst": {
+            "s_1": "flog",
+            "s_2": "flogst",
+            "s_3": "flog",
+            "m_1": "flog",
+            "m_2": "flogt",
+            "m_3": "flogen"
+        },
+        "subjunctive_1": {
+            "s_1": "fliege",
+            "s_2": "fliegest",
+            "s_3": "fliege",
+            "m_1": "fliegen",
+            "m_2": "flieget",
+            "m_3": "fliegen"
+        },
+        "subjunctive_2": {
+            "s_1": "flöge",
+            "s_2": "flögest",
+            "s_3": "flöge",
+            "m_1": "flögen",
+            "m_2": "flöget",
+            "m_3": "flögen"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "flieg",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "fliegt",
+            "m_3": "—"
+        },
+        "present_participle": "fliegend",
+        "past_participle": "geflogen",
+        "auxiliary_verb": "sein"
+    },
+    "gehen": {
+        "original": "gehen",
+        "indicative_cur": {
+            "s_1": "gehe",
+            "s_2": "gehst",
+            "s_3": "geht",
+            "m_1": "gehen",
+            "m_2": "geht",
+            "m_3": "gehen"
+        },
+        "indicative_pst": {
+            "s_1": "ging",
+            "s_2": "gingst",
+            "s_3": "ging",
+            "m_1": "ging",
+            "m_2": "gingt",
+            "m_3": "gingen"
+        },
+        "subjunctive_1": {
+            "s_1": "gehe",
+            "s_2": "gehest",
+            "s_3": "gehe",
+            "m_1": "gehen",
+            "m_2": "gehet",
+            "m_3": "gehen"
+        },
+        "subjunctive_2": {
+            "s_1": "ginge",
+            "s_2": "gingest",
+            "s_3": "ginge",
+            "m_1": "gingen",
+            "m_2": "ginget",
+            "m_3": "gingen"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "geh",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "geht",
+            "m_3": "—"
+        },
+        "present_participle": "gehend",
+        "past_participle": "gegangen",
+        "auxiliary_verb": "sein"
+    },
+    "kennen": {
+        "original": "kennen",
+        "indicative_cur": {
+            "s_1": "kenne",
+            "s_2": "kennst",
+            "s_3": "kennt",
+            "m_1": "kennen",
+            "m_2": "kennt",
+            "m_3": "kennen"
+        },
+        "indicative_pst": {
+            "s_1": "kannte",
+            "s_2": "kanntest",
+            "s_3": "kannte",
+            "m_1": "kannte",
+            "m_2": "kanntet",
+            "m_3": "kannten"
+        },
+        "subjunctive_1": {
+            "s_1": "kenne",
+            "s_2": "kennest",
+            "s_3": "kenne",
+            "m_1": "kennen",
+            "m_2": "kennet",
+            "m_3": "kennen"
+        },
+        "subjunctive_2": {
+            "s_1": "kannte",
+            "s_2": "kanntest",
+            "s_3": "kannte",
+            "m_1": "kannten",
+            "m_2": "kanntet",
+            "m_3": "kannten"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "kenne",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "kennt",
+            "m_3": "—"
+        },
+        "present_participle": "kennend",
+        "past_participle": "gekannt",
+        "auxiliary_verb": "haben"
+    },
+    "kommen": {
+        "original": "kommen",
+        "indicative_cur": {
+            "s_1": "komme",
+            "s_2": "kommst",
+            "s_3": "kommt",
+            "m_1": "kommen",
+            "m_2": "kommt",
+            "m_3": "kommen"
+        },
+        "indicative_pst": {
+            "s_1": "kam",
+            "s_2": "kamst",
+            "s_3": "kam",
+            "m_1": "kam",
+            "m_2": "kamt",
+            "m_3": "kamen"
+        },
+        "subjunctive_1": {
+            "s_1": "komme",
+            "s_2": "kommest",
+            "s_3": "komme",
+            "m_1": "kommen",
+            "m_2": "kommet",
+            "m_3": "kommen"
+        },
+        "subjunctive_2": {
+            "s_1": "käme",
+            "s_2": "kämest",
+            "s_3": "käme",
+            "m_1": "kämen",
+            "m_2": "kämet",
+            "m_3": "kämen"
+        },
+        "imperative": {
+            "s_1": "—",
+            "s_2": "komm",
+            "s_3": "—",
+            "m_1": "—",
+            "m_2": "kommt",
+            "m_3": "—"
+        },
+        "present_participle": "kommend",
+        "past_participle": "gekommen",
+        "auxiliary_verb": "sein"
+    }
+}
